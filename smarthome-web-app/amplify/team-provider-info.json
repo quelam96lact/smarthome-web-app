@@ -9,6 +9,13 @@
             "UnauthRoleName": "amplify-mysmarthome-dev-224659-unauthRole",
             "StackName": "amplify-mysmarthome-dev-224659",
             "StackId": "arn:aws:cloudformation:us-east-1:481381056177:stack/amplify-mysmarthome-dev-224659/01db4e40-fd88-11e9-b4a9-0a875441099a"
+        },
+        "categories": {
+            "auth": {
+                "mysmarthome7b157ed8": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"726038211238932\",\"client_secret\":\"9f5449d3645cd7d5c880e27b3c9f66a7\"},{\"ProviderName\":\"Google\",\"client_id\":\"552317004989-c3ag7i1q14qdh5fugavsh2uu0473ro42.apps.googleusercontent.com\",\"client_secret\":\"k84S0adYoTX0k97fMcs3VJXb\"}]"
+                }
+            }
         }
     }
 }

@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"mysmarthome7b157ed8": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
